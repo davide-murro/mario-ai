@@ -56,8 +56,3 @@ The environment is divided in development and production and it has these attrib
 
 https://davide-murro.github.io/mario-ai/
 
-## Screenshots
-
-![marioai_1](https://github.com/davide-murro/mario-ai/assets/118051417/a2ae19dc-4759-404d-a5fe-8b91c60604b2)
-![marioai_2](https://github.com/davide-murro/mario-ai/assets/118051417/57ecc148-afb1-47cb-b11d-506a1de7b8f5)
-![marioai_3](https://github.com/davide-murro/mario-ai/assets/118051417/e7190700-942b-46a7-a71b-3897ada6ba95)
